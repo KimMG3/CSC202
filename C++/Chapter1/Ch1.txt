@@ -45,3 +45,10 @@ Syntax Error: An error in a program that makes it impossible to parse - and ther
 Token: One of the basic elements of the syntactic structure of a program, analogous to a word ina. natural language.
 
 Curly Braces: Puctuation marks consisting of an open curly brace, {, and a close curly brace, }, used in C++ to group statements.
+
+
+Comment: //
+main: indicates the place in the program where execution begins
+cout: a special object provided by the system to allow you to send output to the screen
+<< : operator that you apply to cout and a value and that causes the value to be displayed.
+endl: represents the end of the line.
