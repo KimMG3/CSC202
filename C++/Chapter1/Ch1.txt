@@ -1,0 +1,1 @@
+Algorithm: A general process for solving a category of problems.
