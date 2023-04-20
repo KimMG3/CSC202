@@ -1,4 +1,4 @@
-'''Algorithm:''' A general process for solving a category of problems.
+**Algorithm:** A general process for solving a category of problems.
 
 Bug: An error in a program
 
